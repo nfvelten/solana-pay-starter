@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Beer Gif",
+    "price": "0.09",
+    "description": "Gif de verceja",
+    "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmg2NjJsMGdvbnYweHIwMHY0Mmw1OG8zYmNlcHB6aTBpZHExemhnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFuGznX6rYgEoP8nVH/giphy.gif",
+    "filename": "beer.gif",
+    "hash": "Qme9MjPnndrhSyYVxYXV5RyNw5G9aXthet7oNC56b8jTLC"
+  },
+  {
+    "id": 2,
+    "name": "Stout Verceja",
+    "price": "0.01",
+    "image_url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhuMGZudmcya25pcmw2ZG94NmpudzkweWN2bHFkdnRvZTF4MHkwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQUqS3NMJtCtlZMJfL/giphy.gif",
+    "description": "Verceja Stout",
+    "filename": "a18101d9-fbf0-4187-b7b2-7ef07fbae64b.gif",
+    "hash": "QmSnf1gUzmNBgozQ6beuN1sBh7K6QaTwJLrJjy1oSqrDzk"
+  }
+]
