@@ -74,20 +74,6 @@ const App = () => {
           {creating && <CreateProduct />}
           {publicKey ? renderItemBuyContainer() : renderNotConnectedContainer()}
         </main>
-
-        <div className="footer-container">
-          <img
-            alt="Twitter Logo"
-            className="twitter-logo"
-            src="twitter-logo.svg"
-          />
-          <a
-            className="footer-text"
-            href={TWITTER_LINK}
-            target="_blank"
-            rel="noreferrer"
-          >{`contruido na @${TWITTER_HANDLE}`}</a>
-        </div>
       </div>
     </div>
   );
